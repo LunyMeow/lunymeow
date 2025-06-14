@@ -14,10 +14,10 @@ Hızlı Öğrenme: Yeni teknolojilere çabuk adapte olur, projelere verimle katk
 
 Veri Bilimi ve AI: Fizik temelli veri bilimi yaklaşımlarıyla yapay zeka çözümleri oluştururum.
 
-## Contact Me
+## İletişim
 <p><a href="https://www.linkedin.com/in/bedirhan-alparslan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/God1sLonelyMan" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> <a href="lunymeow.github.io?s=1" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="https://www.instagram.com/alparslan_b.y/#" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
-## Skills
+## Yeteneklerim
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
@@ -27,7 +27,7 @@ Veri Bilimi ve AI: Fizik temelli veri bilimi yaklaşımlarıyla yapay zeka çöz
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>&nbsp;
 </p>
 
-## Projects
+## Projelerim
 
 ### Dynamic Artifical Model
 
@@ -37,7 +37,7 @@ Kendi nöronlarını ve parametrelerini dinamik olarak düzenleyebilen bir yapay
 
 ---
 
-## GitHub Stats
+## GitHub İstatistiklerim
 
 <img src="https://github-readme-stats.vercel.app/api?username=LunyMeow&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
 
@@ -45,7 +45,7 @@ Kendi nöronlarını ve parametrelerini dinamik olarak düzenleyebilen bir yapay
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LunyMeow&theme=dark" alt="GitHub Streak" />
 
-## GitHub Activity Graph
+## Github Grafik
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LunyMeow&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
 
